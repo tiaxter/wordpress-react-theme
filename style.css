@@ -1,0 +1,28 @@
+/*!
+Theme Name: React + Wordpress Template
+Theme URI: https://github.com/tiaxter/react-wordpress-theme
+Author: Gerardo Palmiotto
+Author URI: 
+Description: Base theme for Wordpress created with React
+Version: 1.0.0
+License: GNU General Public License v2 or later
+*/
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	width: 1px;
+	margin: -1px;
+	padding: 0;
+	border: 0;
+	overflow: hidden;
+	position: absolute !important;
+	word-wrap: normal !important;
+}
+
+html, body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
